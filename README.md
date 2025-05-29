@@ -22,7 +22,7 @@
 5. **Iterate**: Edit and refine your 3D models by sketching or by writing a text prompt
 6. **Export**: Export your 3D world with 1 click in a standard format (.glTF) to integrate with your pre-existing tooling
 ##Digram
-![2_Explantion](docs/digram.png)
+![2_Explantion](docs/diagram.png)
 
 ## Quick Start
 
