@@ -1,0 +1,17 @@
+{
+    "name": "Ai Canvas",
+    "short_name": "Ai canvas",
+    "description": "Ai canvas is a platform for doodling and creating 3D models",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/icon.jpeg",
+        "sizes": "256x256",
+        "type": "image/jpeg",
+        "purpose": "any"
+      }
+    ]
+}
