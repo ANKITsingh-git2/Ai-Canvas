@@ -10,8 +10,6 @@
 
 https://github.com/user-attachments/assets/a3c804e1-b208-4855-b285-d571bedf1f3e
 
-![UI](docs/ui.jpeg)
-
 ![2D Canvas](docs/canvas.jpeg)
 
 ![3D World](docs/world.jpeg)
